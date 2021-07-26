@@ -1,0 +1,28 @@
+#surefire
+#Thu Dec 24 21:23:37 IST 2020
+testClassesDirectory=E\:\\Java Project\\Email_Casting\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Janki Singh\\.m2\\repository\\com\\google\\protobuf\\protobuf-java\\3.11.4\\protobuf-java-3.11.4.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\Janki Singh\\.m2\\repository\\mysql\\mysql-connector-java\\8.0.22\\mysql-connector-java-8.0.22.jar
+classPathUrl.2=C\:\\Users\\Janki Singh\\.m2\\repository\\javax\\javaee-web-api\\7.0\\javaee-web-api-7.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=E\:\\Java Project\\Email_Casting\\target\\classes
+reportsDirectory=E\:\\Java Project\\Email_Casting\\target\\surefire-reports
+classPathUrl.0=E\:\\Java Project\\Email_Casting\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=E\:\\Java Project\\Email_Casting\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Janki Singh\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\Janki Singh\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+classPathUrl.7=C\:\\Users\\Janki Singh\\.m2\\repository\\org\\jsoup\\jsoup\\1.11.2\\jsoup-1.11.2.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Janki Singh\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1.jar
+classPathUrl.5=C\:\\Users\\Janki Singh\\.m2\\repository\\com\\sun\\mail\\javax.mail\\1.6.1\\javax.mail-1.6.1.jar

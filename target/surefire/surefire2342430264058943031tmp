@@ -1,0 +1,9 @@
+#surefire
+#Mon Feb 15 12:37:55 IST 2021
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1 RC\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\Java Project\\Email_Casting
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Janki Singh\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.clientUrlPart=/adminlogin.jsp
+basedir=D\:\\Java Project\\Email_Casting
